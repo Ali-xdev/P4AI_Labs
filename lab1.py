@@ -1,0 +1,9 @@
+value=10
+value +=5
+print("after +=:", value)
+value -= 3
+print("after -=:",value)
+value /= 4
+print("after /=:", value)
+value %= 3
+print("after %=:", value)
